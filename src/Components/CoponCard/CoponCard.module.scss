@@ -1,0 +1,17 @@
+.masterCopon {
+  background: linear-gradient(91.25deg, #e5e6ec -43.87%, #f2f3f6 100.13%);
+  box-shadow: -3px -3px 20px #ffffff;
+  border-radius: 10px;
+  .cut {
+    background: #eff1f5;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    left: 3.6rem;
+  }
+  .cut2 {
+    left: 4rem;
+  }
+}

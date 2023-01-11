@@ -1,0 +1,11 @@
+.description {
+  border-bottom: 1px solid #2c3036;
+}
+.description #descriptionInput {
+  background: transparent;
+  direction: rtl;
+}
+.description #descriptionInput:focus {
+  outline: none;
+  border: none;
+}/*# sourceMappingURL=Description.module.css.map */
